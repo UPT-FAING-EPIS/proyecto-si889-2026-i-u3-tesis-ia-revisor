@@ -1,0 +1,63 @@
+4. Facultad de Ciencias Empresariales – FACEM
+
+FACEM agrupa tesis de Administración de Negocios Internacionales, Administración Turístico-Hotelera, Ciencias Contables y Financieras, Economía y Microfinanzas, Ingeniería Comercial e Ingeniería de la Producción y Administración. En general, sus tesis se basan en variables empresariales, gestión, mercado, finanzas, tributación, comercio, clientes, productividad, servicio, turismo o economía.
+
+4.1 Administración de Negocios Internacionales
+
+Las tesis de Administración de Negocios Internacionales se basan en comercio exterior, exportaciones, importaciones, logística, competitividad, desempeño exportador, cultura organizacional, tecnologías de información, sostenibilidad empresarial y gestión internacional. En el repositorio aparecen temas sobre TIC y gestión en agroexportadoras, desempeño exportador, políticas de importación, gestión logística, marketing digital, compras, gestión documentaria en proyectos mineros, sostenibilidad y crecimiento de exportaciones.
+
+Estas tesis suelen analizar empresas, sectores exportadores, procesos logísticos o mercados internacionales. El trabajo de campo incluye encuestas a trabajadores, empresarios o clientes, entrevistas, análisis documental, revisión de datos de exportación/importación, información de empresas, estadísticas sectoriales y medición de variables como competitividad, productividad, calidad, gestión logística o desempeño exportador.
+
+El entregable aplicado suele ser una tesis con diagnóstico empresarial o sectorial, análisis estadístico de relación entre variables y, en muchos casos, una propuesta de mejora logística, estrategia de exportación, mejora de gestión internacional, plan de competitividad o recomendaciones para empresas exportadoras/importadoras.
+
+En simple: las tesis de Negocios Internacionales se basan en estudiar cómo una empresa o sector mejora su competitividad, logística, exportación, importación o gestión en mercados internacionales.
+
+4.2 Administración Turístico-Hotelera
+
+Las tesis de Administración Turístico-Hotelera se enfocan en calidad de servicio, satisfacción, fidelización, marketing turístico, posicionamiento hotelero, gestión municipal del turismo, turismo sostenible, gastronomía, experiencia del turista, percepción del destino, transporte turístico y desarrollo socioeconómico. En el repositorio aparecen temas sobre marketing digital en hoteles, captación de clientes, marketing gastronómico, calidad de servicio, institucionalidad turística, fidelización, imagen de Tacna como destino, turistas chilenos y servicios turísticos.
+
+Estas tesis se basan en estudiar cómo perciben los clientes, turistas o usuarios un servicio turístico, hotelero o gastronómico. El trabajo de campo suele realizarse con encuestas a turistas, huéspedes, clientes, trabajadores, restaurantes, hoteles, agencias de viaje o instituciones turísticas. También puede incluir entrevistas, observación del servicio, revisión de planes turísticos y análisis de satisfacción.
+
+El entregable aplicado suele ser una tesis con diagnóstico del servicio turístico/hotelero, análisis de satisfacción, fidelización o percepción, y una propuesta de estrategia de marketing, mejora de atención al cliente, posicionamiento, gestión turística o desarrollo sostenible.
+
+En simple: las tesis de Turismo y Hotelería se basan en medir la experiencia del cliente/turista y proponer mejoras para servicios, destinos, hoteles, restaurantes o instituciones turísticas.
+
+4.3 Ciencias Contables y Financieras
+
+Las tesis de Ciencias Contables y Financieras se centran en tributación, liquidez, rentabilidad, riesgo crediticio, planeamiento tributario, cuentas por pagar, morosidad, control interno, formalización, obligaciones tributarias, gasto público, flujo de caja, presupuestos, AFP, BVL y análisis financiero. En el repositorio se observan tesis sobre régimen tributario, formalización, riesgo crediticio, rentabilidad, planeamiento tributario, cuentas por pagar, flujo de caja, morosidad, herramientas SUNAT, precios de minerales, control de adquisiciones y conciencia tributaria.
+
+Estas tesis suelen trabajar con información financiera, contable o tributaria de empresas, instituciones públicas, contribuyentes o bases oficiales. El trabajo de campo puede incluir encuestas a empresarios o contadores, entrevistas, análisis de estados financieros, revisión de registros contables, análisis de ratios, declaraciones tributarias, reportes de morosidad o documentos de gestión.
+
+El entregable aplicado suele ser una tesis con análisis financiero-contable, diagnóstico tributario, evaluación de liquidez/rentabilidad, propuesta de control interno, propuesta de planeamiento tributario, mejora de gestión financiera o recomendaciones para reducir riesgos, mejorar cumplimiento o fortalecer la toma de decisiones.
+
+En simple: las tesis de Contabilidad y Finanzas se basan en analizar información económica, tributaria y financiera para explicar problemas de rentabilidad, liquidez, formalización, control o cumplimiento.
+
+4.4 Economía y Microfinanzas
+
+Las tesis de Economía y Microfinanzas se basan en variables macroeconómicas, crecimiento económico, inflación, tipo de cambio, exportaciones, balanza comercial, gasto público, inversión, política monetaria, recaudación tributaria, indicadores sociales y microfinanzas. En el repositorio aparecen temas sobre tipo de cambio y exportaciones, bonos, tasa de política monetaria, inflación, inversión, gasto público, crecimiento económico, migración, empleo, balanza comercial, presión fiscal y exportaciones mineras o agrícolas.
+
+A diferencia de carreras con mucho trabajo de campo directo, aquí predomina el análisis de datos secundarios. Se usan series estadísticas de entidades como organismos públicos, bancos, instituciones económicas o reportes oficiales. El trabajo consiste en recopilar bases de datos, construir variables, aplicar análisis estadístico o econométrico, interpretar tendencias y explicar relaciones entre indicadores.
+
+El entregable aplicado suele ser una tesis con modelo económico, análisis estadístico, gráficos, interpretación de resultados y recomendaciones de política económica, gestión pública, inversión, exportación o microfinanzas. No suele entregarse un producto físico; el producto es el análisis técnico-económico sustentado.
+
+En simple: las tesis de Economía y Microfinanzas se basan en explicar cómo se relacionan variables económicas y qué impacto tienen en crecimiento, exportaciones, inversión, inflación o desarrollo.
+
+4.5 Ingeniería Comercial
+
+Las tesis de Ingeniería Comercial se enfocan en marketing, ventas, marca, satisfacción del cliente, calidad de servicio, responsabilidad social empresarial, imagen de marca, compra online, inteligencia comercial, gestión exportadora, marketing digital, marketing de influencia, clima laboral, talento humano, innovación y desempeño comercial. En el repositorio aparecen tesis sobre social media marketing, satisfacción, calidad de servicio, valor de marca, RSE, compra online, inteligencia artificial en marketing, estrategia competitiva, influencer marketing, clima laboral, motivación de ventas y SERVQUAL.
+
+Estas tesis suelen tener una lógica de variables: por ejemplo, cómo el marketing digital influye en la satisfacción, cómo la calidad del servicio se relaciona con el valor de marca, o cómo el clima laboral se vincula con el desempeño. El trabajo de campo se realiza con clientes, trabajadores, usuarios, consumidores o empresas. Se aplican encuestas, escalas tipo Likert, modelos de calidad de servicio, análisis estadístico y, a veces, entrevistas.
+
+El entregable aplicado suele ser una tesis con diagnóstico comercial o de mercado, análisis de relación entre variables y una propuesta de estrategia comercial, marketing, fidelización, posicionamiento, mejora de servicio o gestión de clientes.
+
+En simple: las tesis de Ingeniería Comercial se basan en entender clientes, mercados, marcas y ventas para proponer estrategias comerciales medibles.
+
+4.6 Ingeniería de la Producción y Administración
+
+Las tesis de Ingeniería de la Producción y Administración combinan temas de producción, calidad, gestión administrativa, satisfacción del cliente, clima organizacional, compromiso, buenas prácticas agrícolas, responsabilidad social empresarial, procesos ISO 9001, productividad y productos agroindustriales. El repositorio tiene menos trabajos que otras escuelas, pero muestra temas sobre calidad del producto, fidelización, gestión administrativa, desempeño, clima organizacional, gestión de calidad, satisfacción, buenas prácticas agrícolas, RSE, ISO 9001 y rotación de personal.
+
+Estas tesis suelen analizar cómo una organización puede mejorar su gestión, calidad, procesos o productividad. El trabajo de campo incluye encuestas a clientes o trabajadores, entrevistas, revisión de procesos, análisis documental, indicadores de producción, evaluación de satisfacción y revisión de normas o buenas prácticas.
+
+El entregable aplicado suele ser una tesis con diagnóstico organizacional o productivo, propuesta de mejora de procesos, alineación a normas de calidad, mejora administrativa, plan de buenas prácticas, estrategia de fidelización o propuesta de productividad.
+
+En simple: las tesis de Ingeniería de la Producción y Administración se basan en mejorar la gestión, calidad, procesos y desempeño organizacional con enfoque productivo-administrativo.

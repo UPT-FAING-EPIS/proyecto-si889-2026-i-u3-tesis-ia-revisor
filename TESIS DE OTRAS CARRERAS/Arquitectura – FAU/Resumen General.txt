@@ -1,0 +1,13 @@
+3. Facultad de Arquitectura y Urbanismo – FAU
+
+En el repositorio de FAU aparece principalmente la colección de Arquitectura. También figuran Arquitectura del Paisaje y Diseño Gráfico, pero con cero trabajos en esa sección del repositorio revisado, por lo que el análisis real de tesis se puede hacer sobre Arquitectura.
+
+3.1 Arquitectura
+
+Las tesis de Arquitectura se basan en resolver problemas espaciales, urbanos, funcionales, sociales, culturales, patrimoniales o ambientales mediante una propuesta arquitectónica. En el repositorio aparecen tesis sobre centros integrales y holísticos, salud mental, ecotonos, patrimonio cultural, organicismo, terrapuertos, centros de salud mental comunitaria, centros culturales, neuroarquitectura y centros agrícolas con BIM. Las materias más recurrentes incluyen diseño arquitectónico, proyectos, espacio público, sostenibilidad, revitalización urbana, calidad de vida y adulto mayor.
+
+La tesis de Arquitectura suele iniciar con un problema urbano-arquitectónico: falta de equipamiento, deterioro de espacios públicos, necesidad de un centro especializado, mala integración urbana, déficit de infraestructura cultural, educativa, turística, sanitaria o comunitaria. El trabajo de campo incluye análisis del sitio, registro fotográfico, estudio del usuario, diagnóstico urbano, análisis climático, accesibilidad, normativa, contexto social, referencias arquitectónicas y requerimientos espaciales.
+
+El entregable aplicado suele ser una propuesta arquitectónica completa: programa arquitectónico, concepto de diseño, memoria descriptiva, planos, cortes, elevaciones, zonificación, criterios funcionales, criterios ambientales, renders, maqueta digital, propuesta urbana, criterios estructurales, criterios de materialidad y, en algunos casos, modelado BIM. La tesis debe justificar por qué ese diseño responde al usuario, al lugar y al problema.
+
+En simple: las tesis de Arquitectura se basan en investigar un problema espacial o urbano y convertirlo en una propuesta arquitectónica sustentada con análisis del sitio, usuario, normativa y diseño.

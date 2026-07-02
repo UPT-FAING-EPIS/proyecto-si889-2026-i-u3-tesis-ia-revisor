@@ -1,0 +1,33 @@
+2. Facultad de Ciencias de la Salud – FACSA
+
+La Facultad de Ciencias de la Salud agrupa tesis de Medicina Humana, Odontología y Tecnología Médica. A diferencia de Ingeniería, aquí el producto no suele ser un sistema o prototipo, sino evidencia científica sobre salud, diagnóstico, factores de riesgo, tratamiento, laboratorio, percepción, funcionalidad o condición clínica.
+
+2.1 Medicina Humana
+
+Las tesis de Medicina Humana se basan en problemas clínicos, epidemiológicos y de salud pública. En el repositorio aparecen temas sobre conocimientos y actitudes frente a enfermedad cerebrovascular, características clínicas y epidemiológicas, adherencia, glucosa basal y riesgo de diabetes, RCP, retinopatía del prematuro, mortalidad en trauma, esquizofrenia, COVID-19, infecciones asociadas a catéter, salud mental, sarcopenia, anemia en gestantes y percepción de inteligencia artificial en salud.
+
+Estas tesis normalmente buscan identificar prevalencias, factores asociados, niveles de conocimiento, características clínicas, relación entre variables médicas o factores predictivos. El trabajo de campo puede realizarse en hospitales, centros de salud, historias clínicas, pacientes, internos de medicina, adultos mayores, gestantes u otros grupos humanos. Se emplean fichas de recolección, encuestas, escalas clínicas, análisis documental de historias clínicas, registros hospitalarios y análisis estadístico.
+
+El entregable aplicado es principalmente una tesis con evidencia clínica o epidemiológica, tablas de resultados, análisis estadístico, conclusiones médicas y recomendaciones para prevención, diagnóstico, manejo clínico o salud pública. No se espera necesariamente un producto físico; el aporte está en generar conocimiento útil para tomar decisiones sanitarias.
+
+En simple: las tesis de Medicina Humana se basan en estudiar enfermedades, factores de riesgo, conocimientos, características clínicas y resultados de salud en poblaciones reales.
+
+2.2 Odontología
+
+Las tesis de Odontología combinan estudios clínicos, estudios in vitro, revisiones sistemáticas, análisis de materiales dentales, salud oral, estética, endodoncia, tomografía, resinas, microfiltración, rugosidad, color, actividad antimicrobiana y percepción estética. En el repositorio aparecen trabajos sobre rugosidad de resinas, bebidas energéticas, revisión sistemática en endodoncia, estabilidad de color, desinfectantes, percepción estética de sonrisa, técnicas de obturación, biocerámicos, CAD-CAM, microfiltración, salud oral escolar y tomografía de haz cónico.
+
+En esta carrera, el trabajo puede ser de laboratorio, clínico o documental. Si es in vitro, se preparan muestras dentales o materiales, se aplican tratamientos, se mide rugosidad, color, microfiltración, resistencia o actividad antimicrobiana. Si es clínico o epidemiológico, se evalúan pacientes, radiografías, tomografías, escolares o grupos poblacionales. Si es revisión sistemática, se analizan artículos científicos siguiendo criterios de selección.
+
+El entregable aplicado suele ser una tesis con resultados comparativos de materiales, técnicas o condiciones odontológicas, protocolos de laboratorio, análisis de imágenes, evaluación de salud oral o revisión sistemática. El producto final no es una construcción o software, sino evidencia para mejorar la práctica odontológica o elegir materiales/técnicas.
+
+En simple: las tesis de Odontología se basan en evaluar materiales, técnicas, condiciones bucales o evidencia científica para mejorar decisiones clínicas odontológicas.
+
+2.3 Tecnología Médica
+
+Las tesis de Tecnología Médica se enfocan en fisioterapia, laboratorio clínico, salud funcional, actividad física, dolor musculoesquelético, sueño, sarcopenia, riesgo cardiovascular, parámetros hematológicos, capacidad funcional, equilibrio, coordinación y pruebas diagnósticas. En el repositorio aparecen tesis sobre calidad del sueño y dolor musculoesquelético, sangre-anticoagulante y parámetros hematológicos, actividad física, riesgo de lesión, sarcopenia, dolor lumbar, reticulocitos manuales y automatizados, indicadores de anemia, ejercicios de core y capacidad funcional del adulto mayor.
+
+Estas tesis suelen trabajar con mediciones directas del cuerpo humano o muestras biológicas. El trabajo de campo puede incluir evaluación física, pruebas funcionales, escalas de dolor, cuestionarios de actividad física, pruebas de equilibrio, mediciones musculoesqueléticas, muestras de sangre, comparación de técnicas de laboratorio o intervención fisioterapéutica. En algunos casos se aplica un programa de ejercicios y se comparan resultados antes y después.
+
+El entregable aplicado suele ser una tesis con protocolo de evaluación, resultados clínico-funcionales o laboratoriales, comparación de métodos, intervención terapéutica o recomendaciones diagnósticas/rehabilitadoras. El valor de la tesis está en medir correctamente y demostrar relaciones o efectos sobre la salud funcional o diagnóstica.
+
+En simple: las tesis de Tecnología Médica se basan en medir funciones corporales, dolor, rendimiento físico o parámetros de laboratorio para mejorar evaluación, diagnóstico o rehabilitación.

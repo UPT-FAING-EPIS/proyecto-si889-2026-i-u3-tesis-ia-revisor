@@ -1,0 +1,63 @@
+1. Facultad de Ingeniería – FAING
+
+La Facultad de Ingeniería agrupa tesis de Ingeniería Agroindustrial, Ingeniería Ambiental, Ingeniería Civil, Ingeniería de Sistemas, Ingeniería Electrónica e Ingeniería Industrial. En general, sus tesis son de tipo aplicado, porque buscan resolver un problema real mediante una solución técnica, un diseño, una mejora de proceso, una simulación, una implementación, un prototipo o una propuesta validada con datos.
+
+1.1 Ingeniería de Sistemas
+
+Las tesis de Ingeniería de Sistemas se basan principalmente en resolver problemas de información, automatización, seguridad, predicción, gestión de procesos o toma de decisiones mediante tecnología. En el repositorio aparecen temas como modelos de machine learning para pronóstico de precipitación, chatbots con inteligencia artificial, sistemas web para citas médicas, minería de datos para anemia, plataformas biométricas, aplicaciones web de matrícula, blockchain para voto electrónico, business intelligence para ventas, marketplaces B2B, sistemas de inventario y modelos de seguridad informática.
+
+En esta carrera, la tesis normalmente parte de un proceso problemático información desordenada, tareas manuales, falta de control, baja eficiencia, poca seguridad, retrasos, ausencia de reportes o necesidad de predicción. Luego se levanta información del contexto real mediante entrevistas, observación, revisión documental, análisis del proceso actual, recolección de datos o encuestas a usuarios. Después se propone una solución tecnológica un sistema web, aplicación móvil, chatbot, modelo de IA, dashboard, sistema de información, arquitectura de software, red, modelo de seguridad o solución de automatización.
+
+El entregable final visible es la tesis, pero el producto aplicado suele ser un software funcional, prototipo, modelo computacional, base de datos, arquitectura, módulo de inteligencia artificial, dashboard, aplicativo web o propuesta de seguridad. Para que tenga coherencia, la tesis debe demostrar que la solución mejora algo reduce tiempos, mejora la precisión, aumenta la disponibilidad de información, automatiza tareas, disminuye errores, mejora la seguridad o facilita la toma de decisiones.
+
+En simple las tesis de Ingeniería de Sistemas en la UPT se basan en convertir un problema de información o proceso en una solución tecnológica medible.
+
+1.2 Ingeniería Civil
+
+Las tesis de Ingeniería Civil se concentran en infraestructura, estructuras, pavimentos, obras hidráulicas, transitabilidad, redes de agua, modelamiento, evaluación de daños, diseño estructural, presupuestos, uso de BIM, fotogrametría, drones, GIS y simulaciones hidráulicas o estructurales. En el repositorio se observan tesis sobre propuestas viales, evaluación de pavimentos con metodologías inteligentes, simulación hidráulica de zonas inundables, reparación de patologías en concreto, evaluación sísmica, diseño de reservorios, BIM 5D para presupuestos y sistemas de agua potable.
+
+En esta carrera, la tesis suele partir de una necesidad física o constructiva una vía en mal estado, una estructura vulnerable, una red deficiente, una zona inundable, una obra que requiere diseño o una infraestructura que necesita evaluación. El trabajo de campo es muy importante, porque normalmente se hacen inspecciones, levantamientos topográficos, medición de tránsito, ensayos de materiales, evaluación visual, toma de muestras, uso de drones, medición de rugosidad, análisis de suelos o recopilación de datos técnicos de la obra.
+
+El entregable final aplicado suele ser una propuesta técnica de ingeniería, que puede incluir memoria de cálculo, planos, modelamiento, diagnóstico estructural, diseño vial, diseño hidráulico, análisis de costos, presupuesto, metrados, simulación, propuesta de mantenimiento o alternativa de solución. La tesis no se queda en describir el problema; debe justificar técnicamente la solución con cálculos, normas, ensayos o modelamiento.
+
+En simple las tesis de Ingeniería Civil se basan en diagnosticar, diseñar, evaluar o mejorar infraestructura mediante criterios técnicos, cálculos, ensayos y propuestas constructivas.
+
+1.3 Ingeniería Ambiental
+
+Las tesis de Ingeniería Ambiental se orientan a contaminación, gestión de residuos, ruido ambiental, ecoeficiencia, gestión hídrica, tratamiento de lodos, residuos sólidos, imágenes satelitales, rutas de recolección, educación ambiental, contaminación visual y evaluación de impactos ambientales. En el repositorio aparecen temas como sensibilización ambiental, contaminación visual, gestión hídrica, ecoeficiencia, compostaje, tratamiento de lodos de PTAR, ruido ambiental, residuos de construcción, optimización de rutas de recolección y evaluación multitemporal mediante imágenes satelitales.
+
+En esta carrera, la tesis normalmente empieza con un problema ambiental medible ruido excesivo, mal manejo de residuos, contaminación, baja eficiencia en uso de recursos, deficiencia en tratamiento de efluentes, pérdida de cobertura natural o impactos generados por actividades humanas. El trabajo de campo puede incluir mediciones con equipos, toma de muestras, encuestas de percepción, caracterización de residuos, análisis de agua o lodos, uso de SIG, imágenes satelitales, visitas a instituciones o evaluación de cumplimiento normativo.
+
+El entregable aplicado suele ser un diagnóstico ambiental, un plan de gestión, una propuesta de tratamiento, un programa de ecoeficiencia, una propuesta de educación ambiental, un mapa temático, un dashboard, una ruta optimizada, un modelo de evaluación ambiental o una alternativa de manejo de residuosefluentes. Lo importante es que la tesis evidencie datos ambientales y proponga una intervención coherente con esos datos.
+
+En simple las tesis de Ingeniería Ambiental se basan en medir un problema ambiental real y proponer una solución de gestión, tratamiento, mitigación u optimización.
+
+1.4 Ingeniería Electrónica
+
+Las tesis de Ingeniería Electrónica se enfocan en prototipos, sensores, IoT, telecomunicaciones, automatización, control, redes, dispositivos biomédicos, sistemas RFID, monitoreo, control en tiempo real y simulación electrónica. En el repositorio aparecen tesis sobre prototipos con ESP32 para presión arterial, riego IoT, control en tiempo real con Simatic IoT2050, invernaderos IoT, calidad de aire, RFID para pacientes, redes FSO, redes FTTH GPON, control PID, seguidores solares y redes neuronales aplicadas a señales musculares.
+
+Aquí la tesis suele partir de una necesidad de medición, control, comunicación o automatización. El trabajo no se limita a teorizar; por lo general implica diseñar circuitos, seleccionar sensores, programar microcontroladores, configurar módulos de comunicación, diseñar sistemas de control, simular redes o implementar prototipos físicos. El trabajo de laboratorio es clave calibración, pruebas de funcionamiento, medición de precisión, pruebas de conectividad, pruebas de respuesta, comparación de datos y validación frente a parámetros esperados.
+
+El entregable aplicado suele ser un prototipo electrónico funcional, un sistema IoT, un diseño de red, una simulación, un módulo de control, un sistema de monitoreo, un firmware, un tablero de visualización o una arquitectura de comunicación. La tesis debe demostrar que el sistema mide, transmite, controla o automatiza correctamente.
+
+En simple las tesis de Ingeniería Electrónica se basan en diseñar e implementar prototipos o sistemas electrónicos que capturan, procesan, comunican o controlan información del mundo físico.
+
+1.5 Ingeniería Industrial
+
+Las tesis de Ingeniería Industrial se relacionan con productividad, seguridad y salud en el trabajo, mantenimiento, costos, calidad, logística, Lean Manufacturing, Lean Six Sigma, VSM, SCOR, planes de negocio, prefactibilidad, gestión de inventarios, optimización de líneas de producción y mejora de procesos. El repositorio muestra tesis sobre planes de negocio, SST, plantas de producción, Value Stream Mapping, análisis de accidentes, mantenimiento, costos ABC, Lean Manufacturing, SCOR, Design Thinking, ERP e inventarios.
+
+En esta carrera, la tesis suele partir de un proceso empresarial o productivo ineficiente tiempos altos, costos elevados, accidentes, baja productividad, mala distribución, cuellos de botella, problemas de inventario, baja calidad o falta de planificación. El trabajo de campo normalmente incluye observación directa, cronometraje, entrevistas, encuestas, análisis de datos históricos, revisión de registros de producción, costos, accidentes, mantenimiento, ventas o inventarios.
+
+El entregable aplicado suele ser una propuesta de mejora, un plan de implementación, un modelo de gestión, un mapa de procesos, un VSM actual y futuro, un plan de seguridad, un sistema de mantenimiento, una evaluación económica, un plan de negocio, una propuesta LeanSix Sigma o una optimización de procesos. La tesis debe evidenciar indicadores antes y después, o al menos una mejora proyectada mediante herramientas industriales.
+
+En simple las tesis de Ingeniería Industrial se basan en mejorar procesos, costos, productividad, calidad, seguridad o logística mediante herramientas de gestión e ingeniería de operaciones.
+
+1.6 Ingeniería Agroindustrial
+
+Las tesis de Ingeniería Agroindustrial se centran en alimentos, procesos agroindustriales, formulaciones, vida útil, conservación, biocompuestos, biomasa, productos funcionales, análisis sensorial, aprovechamiento de residuos y optimización de procesos. En el repositorio aparecen tesis sobre bebidas funcionales, extruidos enriquecidos con hierro, paté con extracto de romero, celulosa bacteriana, vida útil postcosecha, briquetas con residuos de olivar y orégano, conservas de picante a la tacneña, extracción de biocompuestos de granada y mejoradores de masa en pan.
+
+En esta carrera, la tesis suele ser experimental. Se parte de una materia prima, residuo agroindustrial, producto alimentario o proceso productivo que puede mejorarse. Luego se diseñan tratamientos o formulaciones, se aplican pruebas de laboratorio, se evalúan propiedades físico-químicas, microbiológicas, sensoriales, nutricionales o de rendimiento, y se analiza estadísticamente qué tratamiento funciona mejor.
+
+El entregable aplicado suele ser una formulación optimizada, un producto agroindustrial, un proceso mejorado, una ficha técnica, una evaluación de vida útil, un tratamiento de conservación, un producto alimentario funcional o una alternativa de aprovechamiento de residuos. La tesis debe demostrar que el producto o proceso cumple ciertos criterios de calidad, inocuidad, aceptabilidad o rendimiento.
+
+En simple las tesis de Ingeniería Agroindustrial se basan en transformar materias primas o residuos en productosprocesos agroindustriales validados mediante laboratorio y análisis estadístico.
